@@ -1,0 +1,34 @@
+_repo: The-Metropolis_5421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: With the same outraged sensibility that fueled his muckraking expos The
+  Jungle , Sinclair turns a gimlet eye upon the jaded lifestyles of New York City's
+  high society in this 1907 novel. Freshly arrived from Mississippi, young lawyer
+  Allan Montague is swept up in a profligate atmosphere of party-going and excess
+  that soon threatens to destroy him.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Upper class -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Socialites -- Fiction'
+- GITenberg
+title: The Metropolis
+url: http://www.gutenberg.org/ebooks/5421
