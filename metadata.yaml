@@ -1,5 +1,8 @@
 _repo: The-Metropolis_5421
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -17,6 +20,8 @@ description: With the same outraged sensibility that fueled his muckraking expos
   high society in this 1907 novel. Freshly arrived from Mississippi, young lawyer
   Allan Montague is swept up in a profligate atmosphere of party-going and excess
   that soon threatens to destroy him.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5421#The-Metropolis
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
